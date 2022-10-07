@@ -1,1 +1,1 @@
-# yumix
+# yumix-ui
